@@ -1,0 +1,22 @@
+{
+
+    "name": "harrypotterhack/harrypotterhogwartsmysteryhacktool",
+    "version": "1.0.0",
+    "description": "Harry Potter Hogwarts Mystery hack, Harry Potter Hogwarts Mystery, Harry Potter Hogwarts Mystery mod apk, Harry Potter Hogwarts Mystery hack android, Harry Potter Hogwarts Mystery ios hack, Harry Potter Hogwarts Mystery cheats, Harry Potter Hogwarts Mystery glitch, Harry Potter Hogwarts Mystery hack ios, Harry Potter Hogwarts Mystery android hack, Harry Potter Hogwarts Mystery mod, Harry Potter Hogwarts Mystery free Coins, Harry Potter Hogwarts Mystery unlimited Coins, Harry Potter Hogwarts Mystery Coins, free Harry Potter Hogwarts Mystery loot, herohunters cheat, herohunters hack, Harry Potter Hogwarts Mystery Soccer Coins, loot hack, Harry Potter Hogwarts Mystery hack no root, android cheats, ios cheats, cheatsdev, android hacks, ios hacks, cheat for Harry Potter Hogwarts Mystery, Harry Potter Hogwarts Mystery cheat, Harry Potter Hogwarts Mystery unlimited bux, Harry Potter Hogwarts Mystery hack 2018, Harry Potter Hogwarts Mystery hack Coins ios, Harry Potter Hogwarts Mystery hack bux ios, Harry Potter Hogwarts Mystery hack Coins android, Harry Potter Hogwarts Mystery hack bux android, Harry Potter Hogwarts Mystery free bux, Harry Potter Hogwarts Mystery hack Coins, Harry Potter Hogwarts Mystery hack bux, hero hunter hack, Harry Potter Hogwarts Mystery ios cheat, Harry Potter Hogwarts Mystery ",
+    "keywords": [
+ 
+    ],
+
+"authors": [
+	  {
+            "name": "http://sanroku-online.com/harry-potter-hogwarts-mystery-hack-cheats-tips-guide-tricks/",
+            "email": "mysssk@gmail.com",
+			"homepage": "http://sanroku-online.com/harry-potter-hogwarts-mystery-hack-cheats-tips-guide-tricks/"
+        }
+    ],
+    "license": "ISC",
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+        "another-vendor/package2": "1.*"
+    }
+}
